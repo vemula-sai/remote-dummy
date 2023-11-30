@@ -1,6 +1,4 @@
 this is first line from user 1
-<<<<<<< HEAD
 this is second line from user 1
-=======
 this is first line from user 2
->>>>>>> 313da8e2f3613f7afa16570dc49586d98bb7ab28
+
